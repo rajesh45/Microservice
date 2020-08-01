@@ -1,0 +1,20 @@
+[submodule "digitalbanking-screens"]
+	path = digitalbanking-screens
+	url = https://github.com/rajesh45/digitalbanking-screens.git
+	branch = master
+[submodule "digitalbanking-cardsservice"]
+	path = digitalbanking-cardsservice
+	url = https://github.com/rajesh45/digitalbanking-cardsservice
+	branch = master
+[submodule "digitalbanking-accountsservice"]
+	path = digitalbanking-accountsservice
+	url = https://github.com/rajesh45/digitalbanking-accountsservice.git
+	branch = master
+[submodule "digitalbanking-txfrjava"]
+	path = digitalbanking-txfrjava
+	url = https://github.com/rajesh45/digitalbanking-txfrjava.git
+	branch = master
+[submodule "digitalbanking-loansservice"]
+	path = digitalbanking-loansservice
+	url = https://github.com/rajesh45/digitalbanking-loansservice.git
+	branch = master
